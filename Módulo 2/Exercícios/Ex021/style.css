@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(125, 148, 158);
+}
+
+header, nav, main, section, article, footer, aside{
+    background-color: rgb(181, 197, 204);
+    border-radius: 8px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+header{
+    text-align: center;
+}
+
+nav, footer{
+    background-color: rgb(68, 68, 68);
+    text-align: center;
+    font-weight: bold;
+    height: 30px;
+    box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.445);
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(168, 168, 168);
+    line-height: 30px;
+    padding-right: 10px;
+}
+
+a:hover{
+    color: rgb(136, 134, 199);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+main{
+    text-align: justify;
+}
