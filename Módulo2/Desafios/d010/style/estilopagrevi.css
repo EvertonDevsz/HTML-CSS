@@ -61,7 +61,7 @@ header > p {
     max-width: 500px;
 
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 30px;
     padding-inline: 10px;
 
     font-family: var(--fonte-padrao);
